@@ -11,7 +11,7 @@
 	<description>My-Spring-Mvc-JPA</description>
 
 	<properties>
-		<spring.version>5.2.5.RELEASE</spring.version>
+		<spring.version>5.3.18</spring.version>
 		<mysql.driver.version>8.0.13</mysql.driver.version>
 	</properties>
 
